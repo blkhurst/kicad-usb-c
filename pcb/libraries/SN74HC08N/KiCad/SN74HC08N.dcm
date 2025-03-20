@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74HC08N
+D QUADRUPLE 2-INPUT POSITIVE-NOR GATES
+K
+F http://componentsearchengine.com/Datasheets/1/SN74HC08N.pdf
+$ENDCMP
+#
+#End Doc Library
